@@ -1,5 +1,5 @@
-# website
-This my website hehe future updates:
+# Website
+## This my website hehe, future updates:
 Mobile support
 2D Platform Game
 Improved design and animations
