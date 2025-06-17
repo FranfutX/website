@@ -28,7 +28,7 @@ export default function Projects() {
       viewport={{ once: true, amount: 0.2 }}
       className="max-w-5xl mx-auto px-6 py-16"
     >
-      <h2 className="text-2xl font-bold text-blue-500 mb-10">Projects</h2>
+      <h2 className="text-3xl font-bold text-blue-500 mb-10">Projects</h2>
       <div className="grid gap-6 md:grid-cols-2">
         {projects.map((project, index) => (<motion.a
             key={index}

@@ -10,7 +10,7 @@ export default function Experience() {
       viewport={{ once: true, amount: 0.2 }}
       className="max-w-4xl mx-auto px-6 py-16"
     >
-      <h2 className="text-blue-500 text-2xl font-bold mb-6">Experience</h2>
+      <h2 className="text-blue-500 text-3xl font-bold mb-6">Experience</h2>
 
       {[ 
         {

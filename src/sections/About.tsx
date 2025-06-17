@@ -9,7 +9,7 @@ export default function About() {
       viewport={{ once: true, amount: 0.2 }}
       className="max-w-4xl mx-auto px-6 py-16"
     >
-      <h2 className="text-blue-500 text-2xl font-bold mb-4">About Me</h2>
+      <h2 className="text-blue-500 text-3xl font-bold mb-4">About Me</h2>
       <motion.p
         initial={{ opacity: 0, y: 10 }}
         whileInView={{ opacity: 1, y: 0 }}
